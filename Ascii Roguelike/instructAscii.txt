@@ -1,0 +1,14 @@
+==Instructions==
+
+1. Roguelike is a subgenre of role-playing video games characterized by a dungeon crawl through procedurally generated game;
+
+2. levels turn-based gameplay, tile-based graphics, and permanent death of the player-character. Most roguelikes are based on a;
+
+3. high fantasy narrative, reflecting their influence from tabletop role playing games such as Dungeons & Dragons;
+
+4. In this game the player is placed in a battle ground where he is needed to kill the dragons and snakes dungeons etc;
+
+5. Player can be moved with the help of keyboard keys and he gets experience points by killing the enemies;  
+
+6. And then coming to the enemies they are run by some freaking A.I.They move on the ground randomly controlled by A.I;
+ 
